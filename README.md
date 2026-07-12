@@ -149,13 +149,7 @@ Cross-page filter consistency ensures the same selections apply seamlessly acros
 
 ---
 
-## 📁 Project Structure
 
-```
-Atliq-Power-BI/
-│
-├── chapter-7-bi360.pbix     # Main Power BI report file (~244MB)
-└── README.md
 ```
 
 ---
